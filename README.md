@@ -5,17 +5,17 @@
 
 <p align="center">
   <kbd>
-    <img src="https://github.com/faizkhan7896/Developer-portfolio-alfaiz.github.io/blob/main/Picture.png"></img>
+    <img src="https://github.com/faizkhan7896/My_PortFolio/blob/main/Picture.png"></img>
   </kbd>
 </p>
 
-### To view a live example, **[click here](https://bit.ly/alfaiz_dev)**.
+### To view a live example, **[click here](https://bit.ly/App-Dev_Portfolio)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/faizkhan7896/Developer-portfolio-alfaiz/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/faizkhan7896/My_PortFolio/issues).
 
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/faizkhan7896/Developer-portfolio-alfaiz/pulls).
+If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/faizkhan7896/My_PortFolio/issues/pulls).
 
 ## Table of Contents
 
@@ -108,7 +108,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 👤 **Hanzla Tauqeer**
 
-- Website: https://bit.ly/alfaiz_dev
+- Website: https://bit.ly/App-Dev_Portfolio
 - Twitter: [@Alfaiz_khan789](https://twitter.com/Alfaiz_khan789)
 - Github: [@faizkhan7896](https://github.com/faizkhan7896)
 - LinkedIn: [@Alfaiz Khan](https://www.linkedin.com/in/alfaiz-khan-94647b202/?original_referer=)
