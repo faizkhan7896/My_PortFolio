@@ -5,7 +5,7 @@ export const greetings = {
   title: "Hi all, I'm Alfaiz",
   description:
     'I am a developer who loves building scalable, performant apps. I am passionate about JavaScript, react-native, Android & IOS Application development, redux & Build app and UI components from prototypes Work with native modules as and when required. Use Native APIs for tight integrations with both platforms – Android and iOS. Interested in Continuation of learning and Cooperation with excellent people.',
-  resumeLink: 'https://drive.google.com/file/d/1qvuoWs9WJfY0WnOhJra5pZD-XxJVfPCl/view?usp=sharing',
+  resumeLink: 'https://drive.google.com/file/d/11wxGGFDngIkErhhG8NY0QnLbbzaXbIQ1/view?usp=sharing',
 };
 
 export const openSource = {
@@ -15,13 +15,21 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  // facebook: 'https://www.facebook.com/',
+  facebook: 'https://www.facebook.com/',
   instagram: 'https://www.instagram.com/faiz_yousaf_zai/',
   twitter: 'https://twitter.com/Alfaiz_khan789',
   github: 'https://github.com/faizkhan7896',
   linkedin: 'https://www.linkedin.com/in/alfaiz-khan-94647b202/',
 };
+export const socialLinks_ = [
 
+  { facebook: 'https://www.facebook.com/', image: './public/img/icons/common/allfit.png' },
+  { instagram: 'https://www.instagram.com/faiz_yousaf_zai/',  image: './public/img/icons/common/allfit.png' },
+  { twitter: 'https://twitter.com/Alfaiz_khan789',  image: './public/img/icons/common/allfit.png' },
+  { github: 'https://github.com/faizkhan7896',  image: './public/img/icons/common/allfit.png' },
+  { linkedin: 'https://www.linkedin.com/in/alfaiz-khan-94647b202/',  image: './public/img/icons/common/allfit.png' }
+
+]
 export const skillsSection = {
   title: 'What I do',
   subTitle: 'CRAZY REACT-NATIVE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',

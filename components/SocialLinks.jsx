@@ -2,12 +2,35 @@ import React from "react";
 
 import { Button } from "reactstrap";
 
-import { socialLinks } from "../portfolio";
+import { socialLinks, socialLinks_ } from "../portfolio";
 
-const SocialLinks = () => {
+const SocialLinks = ({ data }) => {
 	return (
 		<div className="btn-wrapper text-lg">
-			{socialLinks.facebook && (
+
+
+			{/* {socialLinks_.map((data, i) => {
+				return (
+					<img
+						src={data.image}
+						style={{
+							objectFit: 'contain',
+							left: 0,
+							right: 0,
+							top: '7rem',
+							marginLeft: 'auto',
+							marginRight: 'auto',
+							width: '100%',
+							height: '18rem',
+							borderRadius: '5%',
+							marginTop: '2rem',
+						}}
+						className='shadow mb-3'
+						alt={data.image}
+					/>
+				)
+			})} */}
+			{/* {socialLinks.facebook && (
 				<Button
 					className="btn-icon-only rounded-circle ml-1"
 					color="facebook"
@@ -20,7 +43,7 @@ const SocialLinks = () => {
 						<i className="fa fa-facebook-square" />
 					</span>
 				</Button>
-			)}
+			)} */}
 			{socialLinks.instagram && (
 				<Button
 					className="btn-icon-only rounded-circle ml-1"
